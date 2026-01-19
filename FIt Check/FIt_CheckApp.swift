@@ -1,17 +1,2 @@
-//
-//  FIt_CheckApp.swift
-//  FIt Check
-//
-//  Created by Kevil Darji on 19/01/26.
-//
+// This file is unused. See MirrorBarApp.swift for the app entry point.
 
-import SwiftUI
-
-@main
-struct FIt_CheckApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
-    }
-}
